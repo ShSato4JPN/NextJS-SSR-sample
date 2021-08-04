@@ -14,6 +14,11 @@ export default function Home() {
             <a href=''>SSR</a>
           </Link>
         </li>
+        <li>
+        <Link href="/blog/BlogSample">
+            <a href=''>blog</a>
+          </Link>
+        </li>
       </ul>
     </div>
   )
