@@ -15,6 +15,11 @@ export default function Home() {
           </Link>
         </li>
         <li>
+          <Link href="/zipcloud/ZipCloudSample">
+            <a href=''>ZipCloud</a>
+          </Link>
+        </li>
+        <li>
         <Link href="/blog/BlogSample">
             <a href=''>blog</a>
           </Link>
