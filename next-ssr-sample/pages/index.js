@@ -34,6 +34,11 @@ export default function Home() {
             <a href=''>MyJsonServer(SSR)</a>
           </Link>
         </li>
+        <li>
+        <Link href="/myserver/MyServer">
+            <a href=''>MyServer</a>
+          </Link>
+        </li>
       </ul>
     </div>
   )
