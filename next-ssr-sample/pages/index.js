@@ -39,6 +39,11 @@ export default function Home() {
             <a href=''>MyServer</a>
           </Link>
         </li>
+        <li>
+        <Link href="/post/Post">
+            <a href=''>Post</a>
+          </Link>
+        </li>
       </ul>
     </div>
   )
