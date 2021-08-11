@@ -24,6 +24,16 @@ export default function Home() {
             <a href=''>blog</a>
           </Link>
         </li>
+        <li>
+        <Link href="/myjsonserver/MyJsonServer_fetch">
+            <a href=''>MyJsonServer(fetch)</a>
+          </Link>
+        </li>
+        <li>
+        <Link href="/myjsonserver/MyJsonServer_SSR">
+            <a href=''>MyJsonServer(SSR)</a>
+          </Link>
+        </li>
       </ul>
     </div>
   )
